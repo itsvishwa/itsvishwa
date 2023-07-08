@@ -26,4 +26,4 @@
 <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsvishwa&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142">
+<img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142">
