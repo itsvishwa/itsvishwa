@@ -1,3 +1,4 @@
+<img src="./files/img.gif">
 <h1 align="center">Hola ✌️, I'm Vishwa</h1>
 
 - 🌱 I’m currently learning **React, Java**
