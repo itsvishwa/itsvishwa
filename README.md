@@ -1,4 +1,4 @@
-<h1 align="center">Hola ✌️, I'm Vishwa</h1>
+<h1 align="center" style="background-color: black; color: white">Hola ✌️, I'm Vishwa</h1>
 
 - 🌱 I’m currently learning **React, Java**
 - 💬 Ask me about **Python**
@@ -22,5 +22,8 @@
 ---
 
 ### 📊 Stat
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsvishwa&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142"><img src="./assets/img.gif" width="142" hight="142">
+<div style="background-color: black">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvishwa&theme=dark&hide_border=false" /><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="./assets/img.gif" width="142" hight="142" /><img src="./assets/img.gif" width="142" hight="142" /><img src="./assets/img.gif" width="142" hight="142" />
+</div>
