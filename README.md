@@ -24,6 +24,6 @@
 ### 📊 Stat
 <div style="background-color: black">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvishwa&theme=dark&hide_border=false" /><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
     <img src="./assets/img.gif" width="165" hight="165" /><img src="./assets/img.gif" width="165" hight="165" /><img src="./assets/img.gif" width="165" hight="165" />
 </div>
